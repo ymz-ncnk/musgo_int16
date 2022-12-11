@@ -1,4 +1,4 @@
-# MusGo_int
+# MusGo_int16
 Provides serialization of the Golang's `int16` type.
 
 # How to use
